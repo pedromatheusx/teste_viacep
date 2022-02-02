@@ -22,3 +22,7 @@
 ## Dica 
 
 # A autenticação está consultando um arquivo db.json na raiz do projeto
+
+## Insomnia
+
+O arquivo de importação está na raiz do projeto com o nome **Insomnia.json**
